@@ -1,0 +1,5 @@
+,GPA,Length of Your Longest Relationship (Has to be an number of months),Number of Romantic Involvements (N/A if not applicable),"How many times a week do you go out? (e.g., going to a party, going to the mall, hanging out with friends, etc.)"
+GPA,1.0,-0.037769833387858574,0.18317723532421348,0.11437482255204189
+Length of Your Longest Relationship (Has to be an number of months),-0.037769833387858574,1.0,0.20458940745979037,-0.17185872895629897
+Number of Romantic Involvements (N/A if not applicable),0.18317723532421348,0.20458940745979037,1.0,-0.013597939594841454
+"How many times a week do you go out? (e.g., going to a party, going to the mall, hanging out with friends, etc.)",0.11437482255204189,-0.17185872895629897,-0.013597939594841454,1.0

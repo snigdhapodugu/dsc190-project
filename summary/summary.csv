@@ -1,0 +1,5 @@
+,count,mean,std,min,25%,50%,75%,max
+GPA,27,3.58,0.77,0,3.66,3.8,3.88,4
+Length of Your Longest Relationship (Has to be an number of months),24,20.5,20.87,0,7.5,17.5,27,96
+Number of Romantic Involvements (N/A if not applicable),22,2.09,2,0,1,2,2,10
+"How many times a week do you go out? (e.g., going to a party, going to the mall, hanging out with friends, etc.)",28,2.54,1.35,1,1.5,2.5,3,7
